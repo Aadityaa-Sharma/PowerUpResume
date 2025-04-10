@@ -15,8 +15,8 @@ from reportlab.lib.units import inch
 from reportlab.lib import colors
 
 # ==== AZURE CONFIGURATION - EDIT THESE 2 LINES ====
-AZURE_LANGUAGE_KEY = "9xUwVPHnAsGn66eSseCmEjAMfJeRjHpYXZAlxpDDB1SY0RcuVwozJQQJ99BDACGhslBXJ3w3AAAaACOGv4Y9"
-AZURE_LANGUAGE_ENDPOINT = "https://powerupresume.cognitiveservices.azure.com/"
+AZURE_LANGUAGE_KEY = "Your_Key"
+AZURE_LANGUAGE_ENDPOINT = "Your_Endpoint"
 # ==== END OF EDITABLE SECTION ====
 
 # Initialize Azure Text Analytics Client
